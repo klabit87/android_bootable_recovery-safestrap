@@ -1,5 +1,6 @@
 #!/system/bin/sh
 # By Hashcode
+setenforce 0
 PATH=/sbin:/system/bin:/system/xbin
 
 RECOVERY_DIR=/system/etc/safestrap
